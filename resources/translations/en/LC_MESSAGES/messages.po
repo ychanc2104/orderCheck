@@ -1,0 +1,11 @@
+msgid "order.name.invalid"
+msgstr "Name contains non-English characters"
+
+msgid "order.name.title.case.invalid"
+msgstr "Name is not capitalized"
+
+msgid "order.price.over.2000"
+msgstr "Price is over 2000"
+
+msgid "order.currency.invalid"
+msgstr "Currency format is wrong"
