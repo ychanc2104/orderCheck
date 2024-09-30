@@ -56,7 +56,7 @@
 
 ## Endpoints
 
-- `POST /api/orders/`: Create a new order.
+- `POST /api/orders`: Create a new order.
 
 ## Swagger UI
    Go to `http://localhost:8000/docs` in your browser.
